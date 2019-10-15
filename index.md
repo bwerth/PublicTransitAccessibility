@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Our Project
+
+Public transit is halfway to anywhere, and is currently an obstacle for people who are blind. Even sighted people have some trouble navigating Park Street, but for a person who is blind locating the entrance, correct platform, the bathroom, or the exit can be a real struggle. We seek to rectify this problem by iteratively developing an improved user experience.
 
 You can use the [editor on GitHub](https://github.com/bwerth/PublicTransitAccessibility/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
